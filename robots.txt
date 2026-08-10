@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: slot-obezyanki.github.io
+Sitemap: https://slot-obezyanki.github.io/sitemap.xml
